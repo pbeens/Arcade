@@ -4,4 +4,4 @@ This program uses the Arcade library to create a window with a black background 
 
 ![Screenshot](grid-of-circles.png)
 
-Inspiration for this program came from [here](https://botsin.space/@dotbot/110565458745495969)).
+Inspiration for this program came from [here](https://botsin.space/@dotbot/110565458745495969).
