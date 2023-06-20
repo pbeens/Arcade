@@ -13,6 +13,7 @@ bird_size = 20
 bird_color = arcade.color.BLACK
 bird_border_width = 5
 
+
 # Define a function to draw a bird using two arcs
 def draw_bird(x, y, size, color, border_width):
     # Draw the left arc with start angle of 0 and end angle of 90
