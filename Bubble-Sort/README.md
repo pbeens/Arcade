@@ -1,4 +1,4 @@
-This program was written with Google Bard's assistance. 
+This [program](bubble-sort.py) was written with Google Bard's assistance. 
 
 Initially I asked for 10 random numbers between 1 and 10 (inclusive) to be stored in a list named "numbers", and to use the Arcade library to draw a bar chart of the numbers. 
 
