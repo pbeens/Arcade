@@ -44,8 +44,6 @@ def main():
     arcade.open_window(WIDTH, HEIGHT, "Bubble Sort")  # Set the window title to "Bubble Sort"
     arcade.set_background_color(arcade.color.WHITE)
     arcade.schedule(draw_barchart, 1 / 60)  # Redraw the chart at 60 FPS
-
-    time.sleep(15)
     
     sorting_thread = threading.Thread(target=bubble_sort)  # Create a separate thread for sorting
     sorting_thread.start()  # Start the sorting process in the background thread
